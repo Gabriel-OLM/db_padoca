@@ -48,7 +48,6 @@
   "pedidos": [
     {
       "id": 1,
-      "pedido": 1,
       "data": "20/10/2024",
       "produto": "Pão de Chocolate",
       "quantidade": 1,
@@ -57,7 +56,6 @@
     },
     {
       "id": 2,
-      "pedido": 2,
       "data": "21/10/2024",
       "produto": "Pão de Vinho com Nozes",
       "quantidade": 2,
@@ -68,7 +66,6 @@
   "historico": [
     {
       "id": 3,
-      "pedido": 3,
       "data": "09/11/2024",
       "produto": "Baguete de Azeitona",
       "quantidade": 1,
