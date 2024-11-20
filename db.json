@@ -48,6 +48,7 @@
   "pedidos": [
     {
       "id": 1,
+      "userName": "fulano",
       "data": "20/10/2024",
       "produto": "Pão de Chocolate",
       "quantidade": 1,
@@ -56,6 +57,7 @@
     },
     {
       "id": 2,
+      "userName": "fulano",
       "data": "21/10/2024",
       "produto": "Pão de Vinho com Nozes",
       "quantidade": 2,
