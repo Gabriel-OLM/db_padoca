@@ -68,6 +68,7 @@
   "historico": [
     {
       "id": 1,
+      "userName": "fulano",
       "data": "09/11/2024",
       "produto": "Baguete de Azeitona",
       "quantidade": 1,
